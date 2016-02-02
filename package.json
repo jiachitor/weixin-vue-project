@@ -1,0 +1,42 @@
+{
+  "name": "vue-hackernews",
+  "version": "1.0.0",
+  "description": "HN clone with Vue.js using HN API",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyx990803/vue-hackernews.git"
+  },
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyx990803/vue-hackernews/issues"
+  },
+  "homepage": "https://github.com/yyx990803/vue-hackernews",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "node-sass": "^3.4.2",
+    "open": "0.0.5",
+    "vueify": "^8.3.4"
+  },
+  "dependencies": {
+    "aliasify": "^1.9.0",
+    "babel-plugin-transform-runtime": "^6.4.3",
+    "es6-promise": "^3.0.2",
+    "firebase": "^2.3.1",
+    "gulp-babel": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "vue": "^1.0.15",
+    "vue-hot-reload-api": "^1.3.2",
+    "vue-resource": "^0.1.17",
+    "vue-router": "^0.7.10",
+    "vue-weui": "^0.1.9",
+    "vueify-insert-css": "^1.0.0",
+    "vuex": "^0.1.0"
+  }
+}
