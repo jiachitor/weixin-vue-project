@@ -1,4 +1,5 @@
 # Vue.js demo 
+该版本为 gulp + browserify 版本
 
 ### Building
 
@@ -21,18 +22,6 @@ gulp watch
 ```
 gulp build
 ```
-
-### 开发环境
-```
-node server.js
-```
-
-### 生产环境
-```
-node server.js --production
-```
-
-
 
 
 ##### gulp 4.0

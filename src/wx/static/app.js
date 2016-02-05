@@ -14592,7 +14592,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\about.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\about.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -14655,7 +14655,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\actionsheet.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\actionsheet.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -14682,7 +14682,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\app.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\app.vue"
   module.hot.dispose(function () {
     require("vueify-insert-css").cache["\n.view {\n  -webkit-transition: all .5s ease;\n  transition: all .5s ease;\n}\n.test-enter, .test-leave {\n  opacity: 0;\n  -webkit-transform: translate3d(10px, 0, 0);\n          transform: translate3d(10px, 0, 0);\n}\n.v-link-active {\n  color: red;\n}\n[v-cloak] {\n  display: none;  \n}\n"] = false
     document.head.removeChild(__vueify_style__)
@@ -14717,7 +14717,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\article.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\article.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -14748,7 +14748,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\button.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\button.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -14880,7 +14880,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -14936,7 +14936,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\dialog.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\dialog.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15027,7 +15027,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\home.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\home.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15058,7 +15058,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\icons.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\icons.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15071,7 +15071,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\inbox\\archive.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\inbox\\archive.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15146,7 +15146,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\inbox\\index.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\inbox\\index.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15209,7 +15209,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\inbox\\message.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\inbox\\message.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15241,7 +15241,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\jssdk.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\jssdk.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15282,7 +15282,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\message.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\message.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15295,7 +15295,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\not-found.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\not-found.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15326,7 +15326,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\progress.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\progress.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15388,7 +15388,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\toast.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\toast.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15401,7 +15401,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\user\\index.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\user\\index.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15414,7 +15414,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\user\\posts.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\user\\posts.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15427,7 +15427,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\user\\profile.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\user\\profile.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15440,7 +15440,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components\\user\\settings.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components\\user\\settings.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15471,38 +15471,38 @@ function configRouter(router) {
             // the component can also be a plain string component id,
             // but a component with that id must be available in the
             // App component's scope.
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/home.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/home.vue')
         },
 
         '/button': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/button.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/button.vue')
         },
         '/cell': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/cell.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/cell.vue')
         },
         '/toast': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/toast.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/toast.vue')
         },
         '/dialog': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/dialog.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/dialog.vue')
         },
         '/progress': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/progress.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/progress.vue')
         },
         '/message': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/message.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/message.vue')
         },
         '/article': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/article.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/article.vue')
         },
         '/actionsheet': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/actionsheet.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/actionsheet.vue')
         },
         '/icons': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/icons.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/icons.vue')
         },
         '/jssdk': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/jssdk.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/jssdk.vue')
         },
 
         // basic example
@@ -15510,36 +15510,36 @@ function configRouter(router) {
             // the component can also be a plain string component id,
             // but a component with that id must be available in the
             // App component's scope.
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/about.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/about.vue')
         },
 
         // nested example
         'user/:userId': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/index.vue'),
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/index.vue'),
             subRoutes: {
                 // matches "/user/:userId/profile/:something"
                 'profile/:something': {
-                    component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/profile.vue')
+                    component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/profile.vue')
                 },
                 // matches "/user/:userId/posts"
                 'posts': {
-                    component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/posts.vue')
+                    component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/posts.vue')
                 },
                 // matches "/user/:userId/settings"
                 'settings': {
-                    component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/settings.vue')
+                    component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/settings.vue')
                 }
             }
         },
         // advanced example
         'inbox': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/inbox/index.vue'),
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/inbox/index.vue'),
             subRoutes: {
                 '/message/:messageId': {
-                    component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/inbox/message.vue')
+                    component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/inbox/message.vue')
                 },
                 '/archived': {
-                    component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/inbox/archive.vue')
+                    component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/inbox/archive.vue')
                 },
                 // default component to render into the nested outlet
                 // when the parent route is matched but there's no
@@ -15555,7 +15555,7 @@ function configRouter(router) {
 
         // not found handler
         '*': {
-            component: require('d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/not-found.vue')
+            component: require('d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/not-found.vue')
         }
 
     });
@@ -15600,7 +15600,7 @@ function configRouter(router) {
     });
 }
 
-},{"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/about.vue":63,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/actionsheet.vue":64,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/article.vue":66,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/button.vue":67,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/cell.vue":68,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/dialog.vue":69,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/home.vue":70,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/icons.vue":71,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/inbox/archive.vue":72,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/inbox/index.vue":73,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/inbox/message.vue":74,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/jssdk.vue":75,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/message.vue":76,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/not-found.vue":77,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/progress.vue":78,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/toast.vue":79,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/index.vue":80,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/posts.vue":81,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/profile.vue":82,"d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\components/user/settings.vue":83}],85:[function(require,module,exports){
+},{"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/about.vue":63,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/actionsheet.vue":64,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/article.vue":66,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/button.vue":67,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/cell.vue":68,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/dialog.vue":69,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/home.vue":70,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/icons.vue":71,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/inbox/archive.vue":72,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/inbox/index.vue":73,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/inbox/message.vue":74,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/jssdk.vue":75,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/message.vue":76,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/not-found.vue":77,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/progress.vue":78,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/toast.vue":79,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/index.vue":80,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/posts.vue":81,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/profile.vue":82,"d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\components/user/settings.vue":83}],85:[function(require,module,exports){
 'use strict';
 
 /*
@@ -15701,7 +15701,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\actionsheet\\actionsheet.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\actionsheet\\actionsheet.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15730,7 +15730,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\article\\article.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\article\\article.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15759,7 +15759,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\button\\button-area.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\button\\button-area.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15827,7 +15827,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\button\\button.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\button\\button.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15856,7 +15856,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell-body.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell-body.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15890,7 +15890,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell-footer.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell-footer.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15919,7 +15919,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell-header.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell-header.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15947,7 +15947,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell-input.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell-input.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -15979,7 +15979,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell-select.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell-select.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16007,7 +16007,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell-textarea.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell-textarea.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16067,7 +16067,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16096,7 +16096,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cells-tips.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cells-tips.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16125,7 +16125,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cells-title.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cells-title.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16166,7 +16166,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\cells.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\cells.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16245,7 +16245,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\checkbox-cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\checkbox-cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16376,7 +16376,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\input-cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\input-cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16455,7 +16455,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\radio-cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\radio-cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16539,7 +16539,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\select-cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\select-cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16619,7 +16619,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\cells\\switch-cell.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\cells\\switch-cell.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16685,7 +16685,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\dialog\\dialog.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\dialog\\dialog.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16746,7 +16746,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\icon\\icon.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\icon\\icon.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16785,7 +16785,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\message\\message.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\message\\message.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16835,7 +16835,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\progress\\progress.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\progress\\progress.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16864,7 +16864,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\tips\\toptips.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\tips\\toptips.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
@@ -16897,7 +16897,7 @@ if (module.hot) {(function () {  module.hot.accept()
   var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return
-  var id = "d:\\jobDevelopment\\Project\\weixin_vue project\\src\\wx\\js\\ui\\weui\\toast\\toast.vue"
+  var id = "d:\\githubDevelopment\\weixin-vue-project\\src\\wx\\js\\ui\\weui\\toast\\toast.vue"
   if (!module.hot.data) {
     hotAPI.createRecord(id, module.exports)
   } else {
